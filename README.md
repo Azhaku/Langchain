@@ -12,7 +12,7 @@ To run the YouTube GPT Creator locally, follow these steps:
 1. Clone the repository:
 
 ```
-git clone https://github.com/yourusername/youtube-gpt-creator.git
+git clone https://github.com/Azhaku/Langchain.git
 ```
 
 2. Navigate to the project directory:
@@ -60,9 +60,6 @@ To maintain context and coherence in generated content, the application utilizes
 
 Utility functions, such as a Wikipedia API wrapper, are used to enhance the generation process by providing additional context and information for generating scripts.
 
-## Contributing
-
-Contributions to the YouTube GPT Creator are welcome! If you find any bugs, have feature requests, or want to contribute enhancements, please open an issue or submit a pull request.
 
 ## License
 
